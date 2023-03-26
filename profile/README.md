@@ -2,6 +2,9 @@
 
 This is the **Pyrogeography lab** at the Forest Research Centre, Instututo Superior de Agronomia, Universidade de Lisboa 
 
+Active repositories:
+1. [The Portuguese Monthly Fire Atlas](https://github.com/cef-pyrogeography-lab/portugal-fire-atlas.git)
+
 <!--
 
 **Here are some ideas to get you started:**
