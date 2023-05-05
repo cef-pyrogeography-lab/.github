@@ -15,3 +15,20 @@ Active repositories:
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+---
+
+Journal where we publish or might consider publishing our work:
+
+- Remote Sensing:
+  - Remote Sensing of Environment
+  - ...
+
+- Software
+  - SoftwareX (2.868)
+  - Plos One (3.752)
+  - Ecography (6.802)
+  - Computers and Geosciences (5.168)
+  - PeerJ (3.061)
+  - Computing in Science and Engineering (2.152)
