@@ -5,7 +5,7 @@ This is the **Pyrogeography lab** at the Forest Research Centre, Instututo Super
 Active repositories:
 1. [The Portuguese Monthly Fire Atlas](https://github.com/cef-pyrogeography-lab/portugal-fire-atlas.git)
 
-
+2. [opSMOS]()
 
 ---
 Journals where we publish or might consider publishing our work:
