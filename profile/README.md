@@ -7,7 +7,7 @@ Active repositories:
 
 2. [opSMOS](https://github.com/cef-pyrogeography-lab/opSMOS)
 
----
+<!--
 Journals where we publish or might consider publishing our work:
 
 - Remote Sensing:
@@ -21,7 +21,7 @@ Journals where we publish or might consider publishing our work:
   - Computers and Geosciences (5.168)
   - PeerJ (3.061)
   - Computing in Science and Engineering (2.152)
-
+-->
 
 
 <!--
